@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  password: MyString
+  password_recovery: MyString
+  auth_token: MyString
+  facebook_token: MyString
+  twitter: 
+  google_token: MyString
+  active: false
+  last_activity: 2017-05-24 14:23:15
+
+two:
+  email: MyString
+  password: MyString
+  password_recovery: MyString
+  auth_token: MyString
+  facebook_token: MyString
+  twitter: 
+  google_token: MyString
+  active: false
+  last_activity: 2017-05-24 14:23:15

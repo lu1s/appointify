@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  used: false
+  usedon: 2017-05-29 14:47:54
+
+two:
+  code: MyString
+  used: false
+  usedon: 2017-05-29 14:47:54
